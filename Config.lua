@@ -19,12 +19,12 @@ SimpleAutoCombatLog.Zones = {
     L["Tempest Keep"],
     L["Serpentshrine Cavern"],
     L["Zul'Aman"],
-    L["Hyjal Summit"]
-    L["The Eye of Eternity"]
-    L["The Obsidian Sanctum"]
-    L["Ulduar"]
-    L["Trial of the Crusader"]
-    L["Icecrown Citadel"]
+    L["Hyjal Summit"],
+    L["The Eye of Eternity"],
+    L["The Obsidian Sanctum"],
+    L["Ulduar"],
+    L["Trial of the Crusader"],
+    L["Icecrown Citadel"],
     L["The Ruby Sanctum"]
   },
   ["ZoneAndMob"] = { -- A Zone must be entered and a Mob must be targeted
