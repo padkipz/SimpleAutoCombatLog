@@ -25,7 +25,10 @@ SimpleAutoCombatLog.Zones = {
     L["Ulduar"],
     L["Trial of the Crusader"],
     L["Icecrown Citadel"],
-    L["The Ruby Sanctum"]
+    L["The Ruby Sanctum"],
+ -- SoD Raids
+    L["Blackfathom Deeps"],
+    L["Gnomeregan"],
   },
   ["ZoneAndMob"] = { -- A Zone must be entered and a Mob must be targeted
     ["Zones"] = {
