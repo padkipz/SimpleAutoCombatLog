@@ -26,7 +26,6 @@ SimpleAutoCombatLog.Zones = {
     L["Trial of the Crusader"],
     L["Icecrown Citadel"],
     L["The Ruby Sanctum"],
- -- SoD Raids
     L["Blackfathom Deeps"],
     L["Gnomeregan"],
   },
