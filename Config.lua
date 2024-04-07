@@ -29,6 +29,13 @@ SimpleAutoCombatLog.Zones = {
  -- SoD Raids
     L["Blackfathom Deeps"],
     L["Gnomeregan"],
+ -- Cataclysm Raids
+    L["Blackwing Descent"],
+    L["The Bastion of Twilight"],
+    L["Throne of the Four Winds"],
+    L["Firelands"],
+    L["Dragon Soul"],
+    L["Baradin Hold"],
   },
   ["ZoneAndMob"] = { -- A Zone must be entered and a Mob must be targeted
     ["Zones"] = {
